@@ -1,9 +1,52 @@
+
 body {
   background-color: #ACC3A6;
+
+  padding-top: 100px;
+  padding-right: 200px;
+  padding-bottom: 200px;
+  padding-left: 100px;
 }
+
+
+
+
+
+
+
+
 h1 {
   color: black;
+  text-align: center;
 }
+
+
+
+
+
+
+
+h3 {
+  text-align: center;
+
+
+}
+
+
+
+
+
+
+
+
+
 p {
   color: black;
+
 }
+
+div {
+    padding-top: 100px;
+    padding-bottom:50px;
+
+   }
